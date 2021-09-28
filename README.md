@@ -1,4 +1,4 @@
-These are all node.js projects so please use 'npm install' in your terminal in the respective project folder to install all dependencies
+These are all node.js projects so, to run, please install Node.js and use 'npm install' in your terminal in the respective project folder to install all dependencies
 
 ---------- SORT ----------
 
@@ -6,7 +6,8 @@ A program that uses the bubble sort method to sort things in ascending order.
 Works with numbers, strings and linked lists.
 It was made with the use of interfaces and classes, making it very easy to implement new things to sort.
 
-This program can be run with: 'npm start'
+This program can be run without installation with: 'node ./build/index.js'
+or with 'npm start' after using 'npm install' to install the dependencies.
 
 ---------- MAPS ----------
 
