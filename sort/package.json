@@ -10,5 +10,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^6.2.2",
+    "nodemon": "^2.0.13",
+    "tsc": "^2.0.3"
+  }
 }
