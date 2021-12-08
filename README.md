@@ -15,3 +15,10 @@ A program that uses the google maps JS API.
 It gets 2 random locations, one for a user and one for a company, adds dummy details and puts them on the map with markers.
 
 This program uses parcel so please start it with: 'parcel index.html'
+
+---------- SPIRAL ----------
+
+A program that creates and reads a spiral matrix using Typescript.
+The spiral class can be of any width and height.
+
+This program uses parcel so please start it with: 'npx parcel index.html'
